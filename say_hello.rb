@@ -1,1 +1,4 @@
-say_hello.RUBY_VERSION
+def say_hello(name)
+ puts "Hello #{name}!"
+ end
+ say_hello ("ruby programmer")
